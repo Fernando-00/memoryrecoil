@@ -8,6 +8,7 @@
 - <img width="1128" alt="game3" src="https://github.com/user-attachments/assets/790656b3-f73d-4097-a0ec-32b3a76423ad">
 - How To Play:
 - Run the MemoryRecoil Aplication to run the game
+- Instructions located in readme.txt file
 - to see progress of the game in Unity visit: https://github.com/aemetz/Memory-Recoil
 
 
